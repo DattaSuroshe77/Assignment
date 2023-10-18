@@ -1,0 +1,38 @@
+
+.main {
+    border: 1px solid #ccc;
+    padding: 10px;
+    position: relative;
+    width: 400px;
+    margin: 0 auto;
+    border-radius: 4px;
+    
+ 
+    
+}
+
+.toolbar {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.copy-button, .save-button, .lock-button {
+    padding: 5px 10px;
+    cursor: pointer;
+    width: 110px;
+
+    
+    
+}
+
+.code-content {
+    white-space: pre-wrap;
+    min-height: 200px;
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
